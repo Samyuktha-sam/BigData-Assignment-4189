@@ -1,4 +1,4 @@
-# Kafka Order Processing System (Assignment 1)
+# Kafka Order Processing System 
 
 This project implements a **Kafka-based order processing system** for the Big Data assignment.  
 It uses **Spring Boot** for the REST API and integrates with **Apache Kafka** using **Avro serialization**.
